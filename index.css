@@ -1,0 +1,1060 @@
+.main-page-child {
+  position: absolute;
+    top: 156px;
+    left: 0;
+    width: -webkit-fill-available;
+    height: 600px;
+    object-fit: cover;
+}
+.main-page-item {
+  position: absolute;
+  top: 178px;
+  left: 47px;
+  border-radius: 50%;
+  background: radial-gradient(50% 50%at 50% 50%, #979797, transparent);
+  width: 545px;
+  height: 545px;
+}
+.happy-holiday {
+  position: absolute;
+  top: 61px;
+  left: 135px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  font-family: var(--font-kufam);
+  color: var(--color-gray-200);
+  width: 245px;
+  height: 37px;
+}
+.about,
+.about-us,
+.all-hotels,
+.contact-us,
+.what-we-are {
+  position: absolute;
+  top: 64px;
+  font-family: var(--font-koulen);
+  text-align: center;
+}
+.about {
+  left: 611px;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 264px;
+  height: 34px;
+}
+.about-us,
+.all-hotels,
+.contact-us,
+.what-we-are {
+  left: 815px;
+  color: var(--color-gray-100);
+}
+.about-us,
+.contact-us,
+.what-we-are {
+  left: 934px;
+}
+.about-us,
+.contact-us {
+  left: 1068px;
+}
+.contact-us {
+  left: 1173px;
+}
+.travel-amsterdam {
+  margin: 0;
+}
+.travel-amsterdam-like-container {
+  position: absolute;
+  top: 323px;
+  left: 139px;
+  font-size: 80px;
+  font-family: var(--font-league-gothic);
+  display: inline-block;
+  width: 684px;
+  height: 176px;
+  text-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+}
+.main-page-inner {
+  position: absolute;
+  top: 525px;
+  left: 135px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 230px;
+  height: 60px;
+}
+.explore {
+  position: absolute;
+  top: 533px;
+  left: 184px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-koulen);
+  text-align: center;
+}
+.arrow-icon,
+.rectangle-div {
+  position: absolute;
+  top: 543.95px;
+  left: 282px;
+  width: 38.5px;
+  height: 22.09px;
+}
+.rectangle-div {
+  top: 711px;
+  left: 219px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 60px rgba(0, 0, 0, 0.15);
+  width: 1000px;
+  height: 250px;
+}
+.hey-book-your-container {
+  position: absolute;
+  top: 756px;
+  left: 257px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-200);
+}
+.line-div {
+  position: absolute;
+  top: 923.5px;
+  left: 256.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 218px;
+  height: 1px;
+}
+.amsterdam,
+.destination {
+  position: absolute;
+  color: var(--color-gray-100);
+}
+.destination {
+  top: 858px;
+  left: 259px;
+  font-size: var(--font-size-xs);
+}
+.amsterdam {
+  top: 899px;
+  left: 257px;
+  letter-spacing: 0.1em;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 903.77px;
+  left: 458px;
+  width: 15.85px;
+  height: 8.09px;
+}
+.date,
+.persons {
+  position: absolute;
+  top: 858px;
+  left: 513px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.persons {
+  left: 792px;
+}
+.main-page-child1,
+.main-page-child2 {
+  position: absolute;
+  top: 923.5px;
+  left: 512.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 233px;
+  height: 1px;
+}
+.main-page-child2 {
+  left: 791.5px;
+  width: 208px;
+}
+.div,
+.november2023 {
+  position: absolute;
+  top: 899px;
+  left: 513px;
+  color: var(--color-gray-100);
+}
+.div {
+  left: 792px;
+}
+.main-page-child3 {
+  position: absolute;
+  top: 903.93px;
+  left: 983px;
+  width: 15.85px;
+  height: 7.93px;
+}
+.main-page-child4 {
+  position: absolute;
+  top: 878px;
+  left: 1049px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 135px;
+  height: 46px;
+}
+.book-now {
+  position: absolute;
+  top: 884px;
+  left: 1063px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-koulen);
+  text-align: center;
+}
+.main-page-child5 {
+  position: absolute;
+  top: 889.95px;
+  left: 1144px;
+  width: 24.5px;
+  height: 22.09px;
+}
+.explore-pakistan {
+  position: absolute;
+  top: 1063px;
+  left: 583px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-200);
+}
+.main-page-child6 {
+  position: absolute;
+  top: 1123px;
+  left: 115px;
+  width: 417px;
+  height: 490px;
+}
+.main-page-child7,
+.main-page-child8 {
+  position: absolute;
+  top: 1139px;
+  left: 531px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 377px;
+  height: 450px;
+}
+.main-page-child8 {
+  left: 928px;
+}
+.main-page-child9 {
+  position: absolute;
+  top: 1139px;
+  left: 136px;
+  width: 376px;
+  height: 230px;
+  object-fit: cover;
+}
+.main-page-child10 {
+  position: absolute;
+  top: 1346px;
+  left: 209px;
+  background-color: var(--color-white);
+  width: 230px;
+  height: 45px;
+}
+.islamabad {
+  position: absolute;
+  top: 1354px;
+  left: 258px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.main-page-child11 {
+  position: absolute;
+  top: 1391px;
+  left: 256px;
+  background-color: var(--color-gray-200);
+  width: 136px;
+  height: 30px;
+}
+.starting-from-rs {
+  position: absolute;
+  top: 1398px;
+  left: 261px;
+  font-size: var(--font-size-xs);
+}
+.islamabad-has-attracted-container {
+  position: absolute;
+  top: 1428px;
+  left: 156px;
+  font-size: 16px;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 271px;
+  height: 121px;
+}
+.main-page-child12 {
+  position: absolute;
+  top: 1526px;
+  left: 256px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 135px;
+  height: 46px;
+}
+.explore1 {
+  position: absolute;
+  top: 1532px;
+  left: 280px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-koulen);
+}
+.main-page-child13 {
+  position: absolute;
+  top: 1537.97px;
+  left: 348px;
+  width: 24.5px;
+  height: 22.09px;
+}
+.main-page-child14 {
+  position: absolute;
+  top: 1139px;
+  left: 531px;
+  width: 377px;
+  height: 228px;
+  object-fit: cover;
+}
+.main-page-child15 {
+  position: absolute;
+  top: 1346px;
+  left: 605px;
+  background-color: var(--color-white);
+  width: 230px;
+  height: 45px;
+}
+.lahore {
+  position: absolute;
+  top: 1354px;
+  left: 674px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.main-page-child16 {
+  position: absolute;
+  top: 1391px;
+  left: 652px;
+  background-color: var(--color-gray-200);
+  width: 136px;
+  height: 30px;
+}
+.starting-from-rs1 {
+  position: absolute;
+  top: 1398px;
+  left: 654px;
+  font-size: var(--font-size-xs);
+}
+.stay-with-us-container {
+  position: absolute;
+  top: 1428px;
+  left: 555px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.main-page-child17 {
+  position: absolute;
+  top: 1526px;
+  left: 652px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 135px;
+  height: 46px;
+}
+.explore2 {
+  position: absolute;
+  top: 1532px;
+  left: 674px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-koulen);
+}
+.main-page-child18 {
+  position: absolute;
+  top: 1537.95px;
+  left: 747px;
+  width: 24.5px;
+  height: 22.09px;
+}
+.main-page-child19 {
+  position: absolute;
+  top: 1139px;
+  left: 928px;
+  width: 377px;
+  height: 230px;
+  object-fit: cover;
+}
+.main-page-child20 {
+  position: absolute;
+  top: 1346px;
+  left: 1002px;
+  background-color: var(--color-white);
+  width: 230px;
+  height: 45px;
+}
+.gilgit {
+  position: absolute;
+  top: 1354px;
+  left: 1080px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.main-page-child21 {
+  position: absolute;
+  top: 1391px;
+  left: 1049px;
+  background-color: var(--color-gray-200);
+  width: 136px;
+  height: 30px;
+}
+.starting-from-rs2 {
+  position: absolute;
+  top: 1399px;
+  left: 1054px;
+  font-size: 11px;
+}
+.gilgit-baltistan-in-container {
+  position: absolute;
+  top: 1433px;
+  left: 942px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.main-page-child22 {
+  position: absolute;
+  top: 1526px;
+  left: 1043px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 135px;
+  height: 46px;
+}
+.explore3 {
+  position: absolute;
+  top: 1532px;
+  left: 1070px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-koulen);
+}
+.main-page-child23 {
+  position: absolute;
+  top: 1537.95px;
+  left: 1136px;
+  width: 24.5px;
+  height: 22.09px;
+}
+.quick-and-easy {
+  position: absolute;
+  top: 1728px;
+  left: 495px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.main-page-child24,
+.main-page-child25 {
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  height: 450px;
+}
+.main-page-child24 {
+  position: absolute;
+  top: 1820px;
+  left: 136px;
+  width: 377px;
+}
+.main-page-child25 {
+  left: 532px;
+}
+.main-page-child25,
+.main-page-child26,
+.main-page-child27 {
+  position: absolute;
+  top: 1820px;
+  width: 377px;
+}
+.main-page-child26 {
+  left: 928px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  height: 450px;
+}
+.main-page-child27 {
+  left: 136px;
+  height: 230px;
+  object-fit: cover;
+}
+.main-page-child28 {
+  position: absolute;
+  top: 2027px;
+  left: 209px;
+  background-color: var(--color-white);
+  width: 230px;
+  height: 45px;
+}
+.kms-away-from-container,
+.murree {
+  position: absolute;
+  color: var(--color-gray-200);
+}
+.murree {
+  top: 2035px;
+  left: 288px;
+  font-size: var(--font-size-5xl);
+}
+.kms-away-from-container {
+  top: 2098px;
+  left: 156px;
+}
+.main-page-child29 {
+  position: absolute;
+  top: 2208px;
+  left: 257px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 135px;
+  height: 46px;
+}
+.explore4 {
+  position: absolute;
+  top: 2214px;
+  left: 280px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-koulen);
+}
+.main-page-child30 {
+  position: absolute;
+  top: 2219.95px;
+  left: 348px;
+  width: 24.5px;
+  height: 22.09px;
+}
+.main-page-child31 {
+  position: absolute;
+  top: 1820px;
+  left: 532px;
+  width: 377px;
+  height: 230px;
+  object-fit: cover;
+}
+.main-page-child32 {
+  position: absolute;
+  top: 2027px;
+  left: 604px;
+  background-color: var(--color-white);
+  width: 230px;
+  height: 45px;
+}
+.nathia-gali {
+  position: absolute;
+  top: 2035px;
+  left: 655px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.kms-away-from-container1,
+.kms-away-from-container2 {
+  position: absolute;
+  top: 2098px;
+  left: 552px;
+  color: var(--color-black);
+}
+.kms-away-from-container2 {
+  left: 942px;
+}
+.main-page-child33 {
+  position: absolute;
+  top: 2208px;
+  left: 649px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 135px;
+  height: 46px;
+}
+.explore5 {
+  position: absolute;
+  top: 2214px;
+  left: 674px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-koulen);
+}
+.main-page-child34 {
+  position: absolute;
+  top: 2219.95px;
+  left: 742px;
+  width: 24.5px;
+  height: 22.09px;
+}
+.main-page-child35 {
+  position: absolute;
+  top: 1820px;
+  left: 928px;
+  width: 377px;
+  height: 230px;
+  object-fit: cover;
+}
+.main-page-child36 {
+  position: absolute;
+  top: 2027px;
+  left: 1002px;
+  background-color: var(--color-white);
+  width: 230px;
+  height: 45px;
+}
+.bhurban {
+  position: absolute;
+  top: 2035px;
+  left: 1070px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.main-page-child37 {
+  position: absolute;
+  top: 2208px;
+  left: 1043px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 135px;
+  height: 46px;
+}
+.explore6 {
+  position: absolute;
+  top: 2214px;
+  left: 1062px;
+  font-family: var(--font-koulen);
+}
+.main-page-child38 {
+  position: absolute;
+  top: 2220.95px;
+  left: 1136px;
+  width: 24.5px;
+  height: 22.09px;
+}
+.trending-destinations {
+  position: absolute;
+  top: 2449px;
+  left: 533px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.main-page-child39,
+.main-page-child40,
+.main-page-child41,
+.main-page-child42 {
+  position: absolute;
+  top: 2523px;
+  left: 116px;
+  border-radius: var(--br-xl);
+  width: 615px;
+  height: 340px;
+  object-fit: cover;
+}
+.main-page-child40,
+.main-page-child41,
+.main-page-child42 {
+  left: 710px;
+}
+.main-page-child41,
+.main-page-child42 {
+  top: 2835px;
+  left: 116px;
+}
+.main-page-child42 {
+  left: 710px;
+}
+.thailand {
+  position: absolute;
+  top: 2774px;
+  left: 556px;
+  font-size: var(--font-size-17xl);
+}
+.bali,
+.paris,
+.thailand {
+  font-family: var(--font-koulen);
+  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+.paris {
+  position: absolute;
+  top: 2774px;
+  left: 1196px;
+  font-size: var(--font-size-17xl);
+}
+.bali {
+  top: 3086px;
+  left: 611px;
+}
+.bali,
+.catagories-of-residence,
+.dubai {
+  position: absolute;
+  font-size: var(--font-size-17xl);
+}
+.dubai {
+  top: 3086px;
+  left: 1206px;
+  font-family: var(--font-koulen);
+  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+.catagories-of-residence {
+  top: 3300px;
+  left: 532px;
+  color: var(--color-black);
+}
+.main-page-child43,
+.main-page-child44,
+.main-page-child45,
+.main-page-child46,
+.main-page-child47 {
+  position: absolute;
+  top: 3398px;
+  left: 203px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 119px;
+  height: 350px;
+}
+.main-page-child44,
+.main-page-child45,
+.main-page-child46,
+.main-page-child47 {
+  left: 431px;
+}
+.main-page-child45,
+.main-page-child46,
+.main-page-child47 {
+  left: 657px;
+}
+.main-page-child46,
+.main-page-child47 {
+  top: 3396px;
+  left: 884px;
+}
+.main-page-child47 {
+  top: 3398px;
+  left: 1111px;
+}
+.main-page-child48 {
+  position: absolute;
+  top: 3429px;
+  left: 230px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.main-page-child49 {
+  position: absolute;
+  top: 3515.5px;
+  left: 229.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 69px;
+  height: 1px;
+}
+.tiny-homes {
+  position: absolute;
+  top: 3730px;
+  left: 242px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.main-page-child50 {
+  position: absolute;
+  top: 3429px;
+  left: 456px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.main-page-child51 {
+  position: absolute;
+  top: 3515.5px;
+  left: 455.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 69px;
+  height: 1px;
+}
+.villa-homes {
+  position: absolute;
+  top: 3730px;
+  left: 466px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.main-page-child52 {
+  position: absolute;
+  top: 3429px;
+  left: 684px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.main-page-child53 {
+  position: absolute;
+  top: 3515.5px;
+  left: 676.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 69px;
+  height: 1px;
+}
+.beach-side {
+  position: absolute;
+  top: 3730px;
+  left: 695px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.main-page-child54 {
+  position: absolute;
+  top: 3429px;
+  left: 911px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.main-page-child55 {
+  position: absolute;
+  top: 3515.5px;
+  left: 909.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 69px;
+  height: 1px;
+}
+.apartments {
+  position: absolute;
+  top: 3730px;
+  left: 921px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.main-page-child56 {
+  position: absolute;
+  top: 3429px;
+  left: 1137px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.main-page-child57 {
+  position: absolute;
+  top: 3515.5px;
+  left: 1136.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 69px;
+  height: 1px;
+}
+.shared-rooms {
+  position: absolute;
+  top: 3730px;
+  left: 1151px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.main-page-child58 {
+  position: absolute;
+  top: 4027px;
+  left: 135px;
+  border-radius: var(--br-6xl);
+  width: 1170px;
+  height: 450px;
+  object-fit: cover;
+}
+.keep-in-touch {
+  position: absolute;
+  top: 4072px;
+  left: 639px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-koulen);
+}
+.main-page-child59 {
+  position: absolute;
+  top: 4159.5px;
+  left: 669.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 121px;
+  height: 1px;
+}
+.its-time-for {
+  position: absolute;
+  top: 4190px;
+  left: 380px;
+  font-size: 40px;
+}
+.main-page-child60 {
+  position: absolute;
+  top: 4300px;
+  left: 214px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 1012px;
+  height: 85px;
+}
+.main-page-child61 {
+  position: absolute;
+  top: 4318px;
+  left: 1008px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-200);
+  width: 198px;
+  height: 49px;
+}
+.enter-your-email,
+.subscribe {
+  position: absolute;
+  font-family: var(--font-koulen);
+}
+.subscribe {
+  top: 4321px;
+  left: 1061px;
+  font-size: var(--font-size-5xl);
+}
+.enter-your-email {
+  top: 4325px;
+  left: 277px;
+  color: var(--color-gray-100);
+}
+.main-page-child62 {
+  position: absolute;
+  top: 4740px;
+  left: 135px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 1170px;
+  height: 470px;
+}
+.main-page-child63 {
+  position: absolute;
+  top: 4797px;
+  left: 214px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.div1 {
+  position: absolute;
+  top: 4809px;
+  left: 306px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.main-page-child64 {
+  position: absolute;
+  top: 4942px;
+  left: 214px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.happyholidaysgmailcom {
+  position: absolute;
+  top: 4960px;
+  left: 306px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.main-page-child65 {
+  position: absolute;
+  top: 5087px;
+  left: 214px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.happyholidays {
+  position: absolute;
+  top: 5105px;
+  left: 306px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.main-page-child66 {
+  position: absolute;
+  top: 4627px;
+  left: 631px;
+  border-radius: var(--br-xl);
+  width: 674px;
+  height: 700px;
+  object-fit: cover;
+}
+.main-page-child67 {
+  position: absolute;
+  top: 5553px;
+  left: 0;
+  width: 1440px;
+  height: 285px;
+  object-fit: cover;
+}
+.happy-holiday1 {
+  position: absolute;
+  top: 5676px;
+  left: 135px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-kufam);
+}
+.about-us1,
+.contact-us1,
+.faqs {
+  position: absolute;
+  top: 5673px;
+  left: 1042px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-koulen);
+  text-align: center;
+}
+.about-us1,
+.faqs {
+  left: 844px;
+}
+.faqs {
+  left: 1259px;
+}
+.main-page-child68 {
+  position: absolute;
+  top: 5717.5px;
+  left: 843.5px;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 462px;
+  height: 1px;
+}
+.log-in a {
+  position: absolute;
+  top: 64px;
+  left: 1293px;
+  font-family: var(--font-koulen);
+  color: var(--color-gray-100);
+  text-align: center;
+  text-decoration: none;
+}
+.main-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5838px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-marcellus-sc);
+}

@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-koulen: Koulen;
+  --font-kufam: Kufam;
+  --font-marcellus-sc: "Marcellus SC";
+  --font-league-gothic: "League Gothic";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-lg: 18px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #848484;
+  --color-gray-200: #112124;
+  --color-black: #000;
+  --color-silver: #bdbdbd;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-6xl: 25px;
+  --br-69xl: 88px;
+}
