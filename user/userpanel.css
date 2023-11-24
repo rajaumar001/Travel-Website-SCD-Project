@@ -1,0 +1,302 @@
+.user-manual-profile-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 217px;
+}
+.user-manual-profile-item {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 217px;
+  object-fit: cover;
+}
+.happy-holiday {
+  position: absolute;
+  top: 70px;
+  left: 135px;
+  font-size: 30px;
+  font-family: var(--font-kufam);
+  color: var(--color-white);
+  text-align: left;
+}
+.about-us,
+.all-hotels,
+.contact-us,
+.what-we-are {
+  position: absolute;
+  top: 71px;
+  font-family: var(--font-koulen);
+  color: var(--color-white);
+}
+.about-us {
+  text-decoration: none;
+  left: 830px;
+}
+.all-hotels,
+.contact-us,
+.what-we-are {
+  left: 931px;
+}
+.all-hotels,
+.contact-us {
+  left: 1060px;
+}
+.contact-us {
+  left: 1175px;
+}
+.rectangle-div,
+.user-manual-profile-inner {
+  position: absolute;
+  top: 317px;
+  left: 566px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 739px;
+  height: 1006px;
+}
+.rectangle-div {
+  left: 135px;
+  width: 397px;
+  height: 148px;
+}
+.user-manual-profile-child1,
+.user-manual-profile-child2,
+.user-manual-profile-child3,
+.user-manual-profile-child4 {
+  position: absolute;
+  top: 519px;
+  left: 135px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 397px;
+  height: 70px;
+}
+.user-manual-profile-child2,
+.user-manual-profile-child3,
+.user-manual-profile-child4 {
+  top: 643px;
+  background-color: var(--color-white);
+}
+.user-manual-profile-child3,
+.user-manual-profile-child4 {
+  top: 767px;
+  background-color: var(--color-gray-100);
+  height: 76px;
+}
+.user-manual-profile-child4 {
+  top: 897px;
+  background-color: var(--color-white);
+}
+.hashir {
+  position: absolute;
+  top: 71px;
+  left: 1292px;
+  font-family: var(--font-koulen);
+  color: var(--color-white);
+}
+.hi-hashir {
+  position: absolute;
+  top: 356px;
+  left: 175px;
+  font-size: var(--font-size-13xl);
+}
+.hashirkiyani12gmailcom {
+  position: absolute;
+  top: 391px;
+  left: 175px;
+  letter-spacing: 0.1em;
+  text-align: left;
+}
+.profile {
+  position: absolute;
+  top: 534px;
+  left: 175px;
+  font-size: var(--font-size-13xl);
+}
+.profile:hover,.payment:hover,.review:hover,.setting:hover{
+  scale: 0.9;
+  cursor: pointer;
+
+}
+
+.arrow-icon {
+  position: absolute;
+  top: 546.64px;
+  left: 479px;
+  width: 24px;
+  height: 14.73px;
+}
+.payment {
+  position: absolute;
+  top: 658px;
+  left: 175px;
+  font-size: var(--font-size-13xl);
+}
+.user-manual-profile-child5 {
+  position: absolute;
+  top: 670.64px;
+  left: 479px;
+  width: 24px;
+  height: 14.73px;
+}
+.review {
+  position: absolute;
+  top: 785px;
+  left: 175px;
+  font-size: var(--font-size-13xl);
+}
+.user-manual-profile-child6 {
+  position: absolute;
+  top: 797.64px;
+  left: 479px;
+  width: 24px;
+  height: 14.73px;
+}
+.setting {
+  position: absolute;
+  top: 915px;
+  left: 175px;
+  font-size: var(--font-size-13xl);
+}
+.user-manual-profile-child7 {
+  position: absolute;
+  top: 927.64px;
+  left: 479px;
+  width: 24px;
+  height: 14.73px;
+}
+.basic-information,
+.hashir-kiyani {
+  position: absolute;
+  top: 356px;
+  left: 634px;
+  font-size: var(--font-size-13xl);
+}
+.basic-information {
+  top: 425px;
+}
+.email,
+.make-sure-this,
+.name {
+  position: absolute;
+  top: 465px;
+  left: 634px;
+}
+.email,
+.name {
+  top: 534px;
+  left: 638px;
+  font-size: var(--font-size-6xl);
+}
+.email {
+  top: 894px;
+  left: 981px;
+}
+.mobile-number {
+  top: 894px;
+  left: 638px;
+}
+.address,
+.bio,
+.contact,
+.date-of-birth,
+.gender,
+.mobile-number {
+  position: absolute;
+  font-size: var(--font-size-6xl);
+}
+.address {
+  top: 1022px;
+  left: 624px;
+  display: inline-block;
+  width: 130px;
+  height: 33px;
+}
+.bio,
+.contact,
+.date-of-birth,
+.gender {
+  top: 534px;
+  left: 1030px;
+}
+.contact,
+.date-of-birth,
+.gender {
+  top: 662px;
+  left: 638px;
+}
+.contact,
+.gender {
+  left: 1030px;
+}
+.contact {
+  top: 785px;
+  left: 634px;
+  font-size: var(--font-size-13xl);
+}
+.receive-account-alerts {
+  position: absolute;
+  top: 825px;
+  left: 634px;
+  letter-spacing: 0.1em;
+  text-align: left;
+}
+.hashir-kiyani1 {
+  position: absolute;
+  top: 565px;
+  left: 637px;
+  letter-spacing: 0.1em;
+}
+.div,
+.hashirkiyani12gmailcom1,
+.male,
+.st-dec-2000 {
+  position: absolute;
+  top: 698px;
+  left: 638px;
+  letter-spacing: 0.1em;
+}
+.div,
+.hashirkiyani12gmailcom1,
+.male {
+  left: 1031px;
+}
+.div,
+.hashirkiyani12gmailcom1 {
+  top: 930px;
+  left: 637px;
+}
+.hashirkiyani12gmailcom1 {
+  left: 981px;
+}
+.h-no-775,
+.travel-enthusiast {
+  position: absolute;
+  top: 1060px;
+  left: 638px;
+  color: var(--color-black);
+}
+.travel-enthusiast {
+  top: 565px;
+  left: 1030px;
+}
+.user-manual-profile {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1747px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-marcellus-sc);
+}
