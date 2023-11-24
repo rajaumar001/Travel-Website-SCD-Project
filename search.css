@@ -1,0 +1,380 @@
+.plan-child {
+  position: absolute;
+  top: 273px;
+  left: 135px;
+  border-radius: 20px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 1169px;
+  height: 130px;
+}
+.destination {
+  position: absolute;
+  top: 301px;
+  left: 169px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.plan-item {
+  position: absolute;
+  top: 370.5px;
+  left: 168.5px;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 218px;
+  height: 1px;
+}
+.amsterdam {
+  position: absolute;
+  top: 346px;
+  left: 169px;
+  letter-spacing: 0.1em;
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.plan-inner {
+  top: 349.93px;
+  left: 370px;
+  width: 15.85px;
+  height: 7.93px;
+}
+.date,
+.line-div,
+.plan-inner {
+  position: absolute;
+}
+.date {
+  top: 301px;
+  left: 602px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.line-div {
+  top: 370.5px;
+  left: 601.5px;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 218px;
+  height: 1px;
+}
+.november-2023,
+.persons {
+  position: absolute;
+  top: 346px;
+  left: 602px;
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.persons {
+  top: 301px;
+  left: 1008px;
+  font-size: var(--font-size-xs);
+}
+.plan-child1 {
+  position: absolute;
+  top: 370.5px;
+  left: 1007.5px;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 218px;
+  height: 1px;
+}
+.div {
+  position: absolute;
+  top: 346px;
+  left: 1008px;
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.plan-child2,
+.rectangle-icon {
+  position: absolute;
+  top: 349.93px;
+  left: 1210px;
+  width: 15.85px;
+  height: 7.93px;
+}
+.plan-child2 {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 217px;
+  object-fit: cover;
+}
+.happy-holiday {
+  position: absolute;
+  top: 70px;
+  left: 135px;
+  font-size: 30px;
+  font-family: var(--font-kufam);
+  text-align: left;
+}
+.about-us,
+.all-hotels,
+.contact-us,
+.log-in,
+.what-we-are {
+  position: absolute;
+  top: 71px;
+  left: 830px;
+  font-family: var(--font-koulen);
+}
+.all-hotels,
+.contact-us,
+.log-in,
+.what-we-are {
+  left: 931px;
+}
+.all-hotels,
+.contact-us,
+.log-in {
+  left: 1061px;
+}
+.contact-us,
+.log-in {
+  left: 1175px;
+}
+.log-in a {
+  text-decoration: none;
+  color: white;
+}
+.log-in {
+  left: 1291px;
+
+}
+.plan-child3,
+.plan-child4,
+.rectangle-div {
+  position: absolute;
+  top: 487px;
+  left: 135px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 377px;
+  height: 450px;
+}
+.plan-child3,
+.plan-child4 {
+  left: 532px;
+}
+.plan-child4 {
+  left: 927px;
+}
+.plan-child5,
+.plan-child6,
+.plan-child7 {
+  position: absolute;
+  top: 487px;
+  left: 135px;
+  width: 377px;
+  height: 221px;
+  object-fit: cover;
+}
+.plan-child6,
+.plan-child7 {
+  left: 532px;
+  width: 376px;
+  height: 223px;
+}
+.plan-child7 {
+  left: 927px;
+  height: 221px;
+}
+.plan-child10,
+.plan-child8,
+.plan-child9 {
+  position: absolute;
+  top: 686px;
+  left: 208px;
+  background-color: var(--color-white);
+  width: 230px;
+  height: 45px;
+}
+.plan-child10,
+.plan-child9 {
+  left: 605px;
+}
+.plan-child10 {
+  left: 1000px;
+}
+.wittenberg {
+  position: absolute;
+  top: 693px;
+  left: 260px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+  text-align: left;
+}
+.bedroom {
+  margin: 0;
+}
+.bedroom-apartment,
+.large-double-bed-container {
+  position: absolute;
+  top: 759px;
+  font-size: var(--font-size-13xl);
+}
+.bedroom-apartment {
+  left: 238px;
+  color: var(--color-gray-200);
+}
+.large-double-bed-container {
+  left: calc(50% - 82px);
+  color: #000;
+}
+.bilderberg,
+.large-doublle-bed-container,
+.park-inn {
+  position: absolute;
+  top: 759px;
+  left: 1028px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-200);
+}
+.bilderberg,
+.park-inn {
+  top: 693px;
+  left: 662px;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.park-inn {
+  left: 1069px;
+}
+.plan-child11,
+.plan-child12,
+.plan-child13 {
+  position: absolute;
+  top: 867px;
+  left: 256px;
+  cursor: pointer;
+  scale: 0.1;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 135px;
+  height: 46px;
+}
+.plan-child12,
+.plan-child13 {
+  left: 652px;
+}
+.plan-child13 {
+  left: 1048px;
+}
+.rs-1034888,
+.rs-1237999,
+.rs-99888 {
+  position: absolute;
+  top: 878px;
+  cursor: pointer;
+  left: 273px;
+  font-size: var(--font-size-lg);
+}
+.rs-1237999,
+.rs-99888 {
+  left: 672px;
+}
+.rs-99888 {
+  left: 1077px;
+}
+.plan-child14,
+.plan-child15 {
+  position: absolute;
+  top: 1073px;
+  left: 333px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 377px;
+  height: 450px;
+}
+.plan-child15 {
+  left: 730px;
+}
+.plan-child16,
+.plan-child17 {
+  position: absolute;
+  top: 1073px;
+  left: 333px;
+  width: 377px;
+  height: 221px;
+  object-fit: cover;
+}
+.plan-child17 {
+  left: 730px;
+  height: 223px;
+}
+.plan-child18,
+.plan-child19 {
+  position: absolute;
+  top: 1271px;
+  left: 406px;
+  background-color: var(--color-white);
+  width: 230px;
+  height: 45px;
+}
+.plan-child19 {
+  left: 802px;
+}
+.van-der-valk {
+  position: absolute;
+  top: 1279px;
+  left: 447px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+  text-align: left;
+}
+.bedroom-apartment1,
+.single-beds,
+.via-suites {
+  position: absolute;
+  top: 1335px;
+  left: 440px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-200);
+}
+.single-beds,
+.via-suites {
+  left: 870px;
+}
+.via-suites {
+  top: 1281px;
+  left: 859px;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.plan-child20,
+.plan-child21 {
+  position: absolute;
+  top: 1441px;
+  left: 454px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray-200);
+  width: 135px;
+  height: 46px;
+}
+.plan-child21 {
+  left: 860px;
+}
+.rs-45999,
+.rs-55000 {
+  position: absolute;
+  top: 1452px;
+  left: 477px;
+  font-size: var(--font-size-lg);
+}
+.rs-45999 {
+  left: 889px;
+}
+.plan {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1747px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-marcellus-sc);
+}
