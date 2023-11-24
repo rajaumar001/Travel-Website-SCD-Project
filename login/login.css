@@ -13,6 +13,17 @@
     font-size: 36px;
     color: #1e4c63;
 }
+.usernotfound{
+  font-size: 10px;
+  margin-top: 10px;
+  color:red;
+  
+}
+.fail{
+  font-size: 10px;
+  margin-top: 10px;
+  color: red;
+}
 .login-item {
   position: absolute;
     top: 154.5px;
