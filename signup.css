@@ -171,7 +171,7 @@
     cursor: pointer;
   }
   .signup {
-    position: relative;
+    position: absolute;
     border-radius: 30px;
     background-color: var(--color-white);
     width: 100%;
