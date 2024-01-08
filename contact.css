@@ -1,0 +1,144 @@
+.contact-us-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 13.56rem;
+  object-fit: cover;
+}
+.happy-holiday {
+  position: absolute;
+  top: 5.56rem;
+  left: 8.44rem;
+  font-size: 1.88rem;
+  font-family: var(--font-kufam);
+}
+.hashir {
+  position: absolute;
+  top: 5.75rem;
+  left: 82.5rem;
+  text-align: center;
+}
+.contact-us-item {
+  position: absolute;
+  top: 5.56rem;
+  left: 79.44rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  object-fit: cover;
+}
+.about-us,
+.all-hotels,
+.contact-us1,
+.what-we-are {
+  position: absolute;
+  top: 5.75rem;
+  left: 71.44rem;
+  text-align: center;
+}
+.about-us,
+.all-hotels,
+.what-we-are {
+  left: 63.56rem;
+}
+.about-us,
+.what-we-are {
+  left: 54.75rem;
+}
+.about-us {
+  left: 47.69rem;
+}
+.contact-us2,
+.wed-love-to {
+  position: absolute;
+  top: 25.63rem;
+  left: 38.88rem;
+  font-size: 2.19rem;
+  font-family: var(--font-kufam);
+  color: var(--color-gray);
+}
+.wed-love-to {
+  top: 28.5rem;
+  left: 25rem;
+  font-size: 3rem;
+  font-family: var(--font-marcellus-sc);
+}
+.our-team-is {
+  margin: 0;
+}
+.our-team-is-container {
+  position: absolute;
+  top: 32.25rem;
+  left: 29.13rem;
+  font-size: 1.38rem;
+  font-family: var(--font-marcellus-sc);
+  color: var(--color-black);
+  display: inline-block;
+  width: 31.75rem;
+  height: 2.5rem;
+}
+.contact-us-child1,
+.contact-us-inner,
+.rectangle-div {
+  position: absolute;
+  top: 38.13rem;
+  left: 8.44rem;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 23.56rem;
+  height: 21.88rem;
+}
+.contact-us-child1,
+.rectangle-div {
+  left: 33.25rem;
+}
+.contact-us-child1 {
+  left: 58rem;
+}
+.contact-us-child2,
+.contact-us-child3,
+.rectangle-icon {
+  position: absolute;
+  top: 40rem;
+  left: 9.44rem;
+  width: 3.13rem;
+  height: 3.13rem;
+  object-fit: cover;
+}
+.contact-us-child2,
+.contact-us-child3 {
+  left: 34.44rem;
+}
+.contact-us-child3 {
+  left: 59.31rem;
+}
+.call-us-we-container,
+.email-us-were-container,
+.we-care-we-container {
+  position: absolute;
+  top: 46.5rem;
+  left: 9.44rem;
+  font-family: var(--font-marcellus-sc);
+  color: var(--color-gray);
+}
+.call-us-we-container,
+.we-care-we-container {
+  top: 46.13rem;
+  left: 34.44rem;
+  color: var(--color-black);
+}
+.call-us-we-container {
+  left: 59.31rem;
+}
+.contact-us {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 86.5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-koulen);
+}

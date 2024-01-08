@@ -10,20 +10,15 @@ body {
   --font-kufam: Kufam;
 
   /* font sizes */
-  --font-size-xl: 20px;
-  --font-size-13xl: 32px;
-  --font-size-6xl: 25px;
+  --font-size-lg: 1.13rem;
+  --font-size-13xl: 2rem;
+  --font-size-xl: 1.25rem;
 
   /* Colors */
   --color-white: #fff;
-  --color-black: #000;
-  --color-gray-100: #fffefe;
-  --color-gray-200: #112124;
+  --color-gray: #112124;
 
   /* Border radiuses */
+  --br-69xl: 88px;
   --br-xl: 20px;
-}
-.what-we-are a, .all-hotels a,.contact-us a{
-  color: white;
-  text-decoration: none;
 }

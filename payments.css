@@ -1,0 +1,272 @@
+.user-manual-payment-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 13.56rem;
+  object-fit: cover;
+}
+.happy-holiday {
+  position: absolute;
+  top: 4.38rem;
+  left: 8.44rem;
+  font-size: 1.88rem;
+  font-family: var(--font-kufam);
+  color: var(--color-white);
+  text-align: left;
+}
+.about-us,
+.all-hotels,
+.contact-us,
+.hashir,
+.what-we-are {
+  position: absolute;
+  top: 4.44rem;
+  left: 51.88rem;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-koulen);
+  color: var(--color-white);
+}
+.all-hotels,
+.contact-us,
+.hashir,
+.what-we-are {
+  left: 58.19rem;
+}
+.all-hotels,
+.contact-us,
+.hashir {
+  left: 66.25rem;
+}
+.contact-us,
+.hashir {
+  left: 73.44rem;
+}
+.hashir {
+  left: 80.75rem;
+}
+.user-manual-payment-item {
+  position: absolute;
+  top: 19.81rem;
+  left: 8.44rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 24.81rem;
+  height: 9.25rem;
+}
+.hashirkiyani12gmailcom {
+  position: absolute;
+  top: 23.88rem;
+  left: 10.94rem;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.1em;
+  text-align: left;
+}
+.rectangle-div,
+.user-manual-payment-child1,
+.user-manual-payment-child2,
+.user-manual-payment-child3,
+.user-manual-payment-inner {
+  position: absolute;
+  top: 32.88rem;
+  left: 8.44rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 24.81rem;
+  height: 4.38rem;
+}
+.rectangle-div,
+.user-manual-payment-child1,
+.user-manual-payment-child2,
+.user-manual-payment-child3 {
+  top: 41.06rem;
+}
+.user-manual-payment-child1,
+.user-manual-payment-child2,
+.user-manual-payment-child3 {
+  top: 49.25rem;
+}
+.user-manual-payment-child2,
+.user-manual-payment-child3 {
+  top: 57.44rem;
+}
+.user-manual-payment-child3 {
+  top: 19.81rem;
+  left: 35.38rem;
+  width: 46.04rem;
+  height: 58.13rem;
+}
+.hi-hashir {
+  position: absolute;
+  top: 21.94rem;
+  left: 10.94rem;
+}
+.payment,
+.profile,
+.recent-payments {
+  position: absolute;
+  top: 42rem;
+  left: 10.94rem;
+}
+.profile,
+.recent-payments {
+  top: 33.81rem;
+}
+.recent-payments {
+  top: 22.5rem;
+  left: 38.88rem;
+}
+.arrow-icon,
+.review,
+.setting {
+  position: absolute;
+  top: 58.38rem;
+  left: 10.94rem;
+}
+.arrow-icon,
+.review {
+  top: 50.19rem;
+}
+.arrow-icon {
+  top: 35.06rem;
+  left: 30.06rem;
+  max-height: 100%;
+  width: 1.44rem;
+  object-fit: cover;
+}
+.user-manual-payment-child4,
+.user-manual-payment-child5,
+.user-manual-payment-child6 {
+  position: absolute;
+  top: 43.25rem;
+  left: 30.06rem;
+  max-height: 100%;
+  width: 1.44rem;
+  object-fit: cover;
+}
+.user-manual-payment-child5,
+.user-manual-payment-child6 {
+  top: 51.44rem;
+}
+.user-manual-payment-child6 {
+  top: 59.63rem;
+}
+.user-manual-payment-child10,
+.user-manual-payment-child7,
+.user-manual-payment-child8,
+.user-manual-payment-child9 {
+  position: absolute;
+  top: 27.56rem;
+  left: 38.13rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  width: 32.31rem;
+  height: 6.25rem;
+}
+.user-manual-payment-child10,
+.user-manual-payment-child8,
+.user-manual-payment-child9 {
+  top: 36.38rem;
+  left: 38.19rem;
+  width: 32.25rem;
+}
+.user-manual-payment-child10,
+.user-manual-payment-child9 {
+  top: 45.19rem;
+}
+.user-manual-payment-child10 {
+  top: 54rem;
+}
+.bilderberg,
+.wittenberg {
+  position: absolute;
+  top: 29.44rem;
+  left: 41.19rem;
+  text-align: left;
+}
+.bilderberg {
+  top: 38.25rem;
+}
+.user-manual-payment-child11,
+.user-manual-payment-child12 {
+  position: absolute;
+  top: 29.06rem;
+  left: 60.75rem;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray);
+  width: 8.44rem;
+  height: 2.88rem;
+}
+.user-manual-payment-child12 {
+  top: 37.88rem;
+}
+.rs-1237999 {
+  position: absolute;
+  top: 38.56rem;
+  left: 62rem;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.van-der-valk {
+  position: absolute;
+  top: 47.06rem;
+  left: 41.19rem;
+  text-align: left;
+}
+.user-manual-payment-child13 {
+  position: absolute;
+  top: 46.88rem;
+  left: 60.75rem;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray);
+  width: 8.44rem;
+  height: 2.88rem;
+}
+.rs-1034888,
+.rs-55000 {
+  position: absolute;
+  top: 47.56rem;
+  left: 62.19rem;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.rs-1034888 {
+  top: 29.75rem;
+  left: 61.81rem;
+}
+.park-inn {
+  position: absolute;
+  top: 55.5rem;
+  left: 41.19rem;
+  text-align: left;
+}
+.user-manual-payment-child14 {
+  position: absolute;
+  top: 55.31rem;
+  left: 60.75rem;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray);
+  width: 8.44rem;
+  height: 2.88rem;
+}
+.rs-99888 {
+  position: absolute;
+  top: 56rem;
+  left: 62.56rem;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.user-manual-payment {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 109.19rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray);
+  font-family: var(--font-marcellus-sc);
+}

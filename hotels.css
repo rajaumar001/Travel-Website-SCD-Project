@@ -1,0 +1,404 @@
+.hashir {
+  position: absolute;
+  top: 3.63rem;
+  left: 33.5rem;
+  font-family: var(--font-koulen);
+  display: none;
+}
+.all-hotels-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 13.56rem;
+  object-fit: cover;
+}
+.happy-holiday {
+  position: absolute;
+  top: 5.13rem;
+  left: 8.44rem;
+  font-size: 1.88rem;
+  font-family: var(--font-kufam);
+  text-align: left;
+}
+.hashir1 {
+  position: absolute;
+  top: 5.25rem;
+  left: 83.75rem;
+  font-family: var(--font-koulen);
+}
+.all-hotels-item {
+  position: absolute;
+  top: 5.13rem;
+  left: 80.94rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.about-us,
+.all-hotels1,
+.contact-us,
+.hotels,
+.what-we-are {
+  position: absolute;
+  top: 5.31rem;
+  left: 73.06rem;
+  font-family: var(--font-koulen);
+}
+
+.about-us,
+.all-hotels1,
+.hotels,
+.what-we-are {
+  left: 65.38rem;
+}
+.about-us,
+.hotels,
+.what-we-are {
+  top: 5.25rem;
+  left: 56.75rem;
+}
+.about-us,
+.hotels {
+  top: 5.31rem;
+  left: 49.88rem;
+}
+.hotels {
+  top: 20.44rem;
+  left: 8.44rem;
+  font-size: 3rem;
+  font-family: var(--font-kufam);
+  color: var(--color-gray);
+  text-align: left;
+}
+
+.all-hotels-child1,
+.all-hotels-inner,
+.rectangle-div {
+  position: absolute;
+  top: 31.81rem;
+  left: 8.44rem;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  width: 23.56rem;
+  height: 28.13rem;
+}
+
+.all-hotels-child1,
+.rectangle-div {
+  left: 58rem;
+}
+.all-hotels-child1 {
+  left: 33.25rem;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 31.81rem;
+  left: 8.5rem;
+  width: 23.5rem;
+  height: 14.06rem;
+  object-fit: cover;
+}
+.all-hotels-child2 {
+  position: absolute;
+  top: 44.44rem;
+  left: 13.31rem;
+  background-color: var(--color-white);
+  width: 14.38rem;
+  height: 2.81rem;
+}
+.kupu-kupu-phangan,
+.thailand {
+  position: absolute;
+  top: 49.5rem;
+  left: 9.63rem;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray);
+}
+.thailand {
+  top: 44.94rem;
+  left: 16.56rem;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.all-hotels-child3 {
+  position: absolute;
+  top: 55.63rem;
+  left: 16rem;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray);
+  width: 8.44rem;
+  height: 2.88rem;
+}
+.rs-12000 {
+  position: absolute;
+  top: 56.31rem;
+  left: 17.75rem;
+  font-size: var(--font-size-lg);
+}
+.all-hotels-child4 {
+  position: absolute;
+  top: 31.81rem;
+  left: 33.25rem;
+  width: 23.5rem;
+  height: 14.06rem;
+  object-fit: cover;
+}
+.all-hotels-child5 {
+  position: absolute;
+  top: 44.44rem;
+  left: 37.88rem;
+  background-color: var(--color-white);
+  width: 14.38rem;
+  height: 2.81rem;
+}
+.alaska,
+.aurora-villa {
+  position: absolute;
+  color: var(--color-gray);
+}
+.alaska {
+  top: 44.94rem;
+  left: 42.31rem;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.aurora-villa {
+  top: 49.5rem;
+  left: 38.13rem;
+  font-size: var(--font-size-13xl);
+}
+.all-hotels-child6 {
+  position: absolute;
+  top: 55.63rem;
+  left: 40.81rem;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray);
+  width: 8.44rem;
+  height: 2.88rem;
+}
+.rs-1900000 {
+  position: absolute;
+  top: 56.31rem;
+  left: 41.25rem;
+  font-size: var(--font-size-lg);
+}
+.all-hotels-child7 {
+  position: absolute;
+  top: 31.81rem;
+  left: 58.06rem;
+  width: 23.5rem;
+  height: 14.06rem;
+  object-fit: cover;
+}
+.all-hotels-child8 {
+  position: absolute;
+  top: 44.44rem;
+  left: 62.63rem;
+  background-color: var(--color-white);
+  width: 14.38rem;
+  height: 2.81rem;
+}
+.cocoa-beach,
+.la-quinta {
+  position: absolute;
+  color: var(--color-gray);
+}
+.cocoa-beach {
+  top: 44.94rem;
+  left: 64.5rem;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.la-quinta {
+  top: 49.5rem;
+  left: 64.56rem;
+  font-size: var(--font-size-13xl);
+}
+.all-hotels-child9 {
+  position: absolute;
+  top: 55.63rem;
+  left: 65.56rem;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray);
+  width: 8.44rem;
+  height: 2.88rem;
+}
+.rs-1200000 {
+  position: absolute;
+  top: 56.31rem;
+  left: 66.06rem;
+  font-size: var(--font-size-lg);
+}
+.all-hotels-child10,
+.all-hotels-child11,
+.all-hotels-child12 {
+  position: absolute;
+  top: 67.44rem;
+  left: 8.44rem;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  width: 23.56rem;
+  height: 28.13rem;
+}
+.all-hotels-child11,
+.all-hotels-child12 {
+  left: 58rem;
+}
+.all-hotels-child12 {
+  left: 33.19rem;
+}
+.all-hotels-child13 {
+  position: absolute;
+  top: 67.44rem;
+  left: 8.44rem;
+  width: 23.5rem;
+  height: 14.06rem;
+  object-fit: cover;
+}
+.all-hotels-child14 {
+  position: absolute;
+  top: 80.06rem;
+  left: 13.06rem;
+  background-color: var(--color-white);
+  width: 14.38rem;
+  height: 2.81rem;
+}
+.all-hotels-child15 {
+  position: absolute;
+  top: 91.69rem;
+  left: 16rem;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray);
+  width: 8.44rem;
+  height: 2.88rem;
+}
+.shangri-la,
+.srilanka {
+  position: absolute;
+  color: var(--color-gray);
+}
+.srilanka {
+  top: 80.56rem;
+  left: 16.81rem;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.shangri-la {
+  top: 86.06rem;
+  left: 14.75rem;
+  font-size: var(--font-size-13xl);
+}
+.rs-18980 {
+  position: absolute;
+  top: 92.38rem;
+  left: 17.81rem;
+  font-size: var(--font-size-lg);
+}
+.all-hotels-child16 {
+  position: absolute;
+  top: 67.44rem;
+  left: 33.25rem;
+  width: 23.5rem;
+  height: 14.06rem;
+  object-fit: cover;
+}
+.all-hotels-child17 {
+  position: absolute;
+  top: 80.06rem;
+  left: 37.81rem;
+  background-color: var(--color-white);
+  width: 14.38rem;
+  height: 2.81rem;
+}
+.atlantis {
+  position: absolute;
+  top: 80.56rem;
+  left: 41.63rem;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray);
+  text-align: left;
+}
+.all-hotels-child18 {
+  position: absolute;
+  top: 91.69rem;
+  left: 40.81rem;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray);
+  width: 8.44rem;
+  height: 2.88rem;
+}
+.rs-34897 {
+  position: absolute;
+  top: 92.38rem;
+  left: 42.63rem;
+  font-size: var(--font-size-lg);
+}
+.terrace-family {
+  margin: 0;
+}
+.terrace-family-suite-container {
+  position: absolute;
+  top: 84.81rem;
+  left: 37.13rem;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray);
+}
+.all-hotels-child19 {
+  position: absolute;
+  top: 67.44rem;
+  left: 58.06rem;
+  width: 23.5rem;
+  height: 14.06rem;
+  object-fit: cover;
+}
+.all-hotels-child20 {
+  position: absolute;
+  top: 80.06rem;
+  left: 62.63rem;
+  background-color: var(--color-white);
+  width: 14.38rem;
+  height: 2.81rem;
+}
+.las-vegas {
+  position: absolute;
+  top: 80.56rem;
+  left: 66.06rem;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray);
+  text-align: left;
+}
+.all-hotels-child21 {
+  position: absolute;
+  top: 91.69rem;
+  left: 65.56rem;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-gray);
+  width: 8.44rem;
+  height: 2.88rem;
+}
+.bellagio-hotel,
+.rs-78888 {
+  position: absolute;
+  top: 92.38rem;
+  left: 67.44rem;
+  font-size: var(--font-size-lg);
+}
+.bellagio-hotel {
+  top: 86.06rem;
+  left: 61.94rem;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray);
+}
+.all-hotels {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 109.19rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-marcellus-sc);
+}

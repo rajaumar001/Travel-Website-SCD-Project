@@ -1,0 +1,138 @@
+.about-us-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 13.56rem;
+  object-fit: cover;
+}
+.happy-holiday {
+  position: absolute;
+  top: 5.56rem;
+  left: 8.44rem;
+  font-size: 1.88rem;
+  font-family: var(--font-kufam);
+  text-align: left;
+}
+.about-us-item,
+.contact-us {
+  position: absolute;
+  top: 5.75rem;
+  left: 72.44rem;
+}
+.about-us-item {
+  top: 5.56rem;
+  left: 80.06rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  object-fit: cover;
+}
+.hashir {
+  position: absolute;
+  top: 5.75rem;
+  left: 82.88rem;
+}
+.about-us1,
+.all-hotels,
+.what-we-are {
+  position: absolute;
+  top: 5.75rem;
+  left: 64.94rem;
+}
+.about-us1,
+.what-we-are {
+  left: 56.44rem;
+}
+.about-us1 {
+  left: 49.75rem;
+}
+.about-us-inner,
+.about-us2 {
+  position: absolute;
+  left: 8.44rem;
+}
+.about-us-inner {
+  top: 36rem;
+  border-radius: var(--br-11xl);
+  width: 17.38rem;
+  height: 20.63rem;
+  object-fit: cover;
+}
+.about-us2 {
+  top: 24.5rem;
+  font-size: 3rem;
+  font-family: var(--font-kufam);
+  color: var(--color-gray);
+  text-align: left;
+}
+.about-us-child1,
+.rectangle-icon {
+  top: 36rem;
+  width: 17.38rem;
+  height: 20.63rem;
+  object-fit: cover;
+}
+.rectangle-icon {
+  position: absolute;
+  left: 27rem;
+  border-radius: var(--br-11xl);
+}
+.about-us-child1 {
+  left: 45.63rem;
+}
+.about-us-child1,
+.about-us-child2,
+.rectangle-div {
+  position: absolute;
+  border-radius: var(--br-11xl);
+}
+.about-us-child2 {
+  top: 36rem;
+  left: 64.25rem;
+  width: 17.38rem;
+  height: 20.63rem;
+  object-fit: cover;
+}
+.rectangle-div {
+  top: 39.13rem;
+  left: 32rem;
+  background-color:brown;
+  width: 26rem;
+  height: 14.5rem;
+}
+.our-mission-is {
+  margin: 0;
+}
+.blank-line {
+  margin: 0;
+  color: #000;
+}
+.our-mission-is-container {
+  position: absolute;
+  top: 42.88rem;
+  left: 33.13rem;
+  font-family: var(--font-marcellus-sc);
+  text-align: left;
+  display: inline-block;
+  width: 23.69rem;
+  height: 7rem;
+}
+.about-us {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 86.5rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-koulen);
+}
+.contact-us,
+.contact-us a,
+.all-hotels a,
+.what-we-are a,
+.about-us1 a{
+  text-decoration: none;
+  color: aliceblue;
+}

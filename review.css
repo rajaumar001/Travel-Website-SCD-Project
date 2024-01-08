@@ -1,0 +1,367 @@
+.REVIEW {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.REVIEW .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1747px;
+  position: relative;
+}
+
+.REVIEW .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 217px;
+  top: 0;
+  left: 0;
+  background-image: url(public/rectangle-167.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.REVIEW .text-wrapper {
+  position: absolute;
+  top: 88px;
+  left: 135px;
+  font-family: "Kufam", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .text-wrapper-2 {
+  position: absolute;
+  top: 91px;
+  left: 1317px;
+  font-family: "Koulen", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .rectangle {
+  width: 34px;
+  height: 33px;
+  top: 89px;
+  left: 1271px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.REVIEW .text-wrapper-3 {
+  position: absolute;
+  top: 91px;
+  left: 1143px;
+  font-family: "Koulen", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .text-wrapper-4 {
+  position: absolute;
+  top: 91px;
+  left: 1017px;
+  font-family: "Koulen", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .text-wrapper-5 {
+  position: absolute;
+  top: 91px;
+  left: 876px;
+  font-family: "Koulen", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .text-wrapper-6 {
+  position: absolute;
+  top: 91px;
+  left: 763px;
+  font-family: "Koulen", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .overlap-group {
+  position: absolute;
+  width: 397px;
+  height: 148px;
+  top: 334px;
+  left: 135px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .text-wrapper-7 {
+  position: absolute;
+  top: 28px;
+  left: 40px;
+  font-family: "Marcellus SC", Helvetica;
+  font-weight: 400;
+  color: #112124;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .text-wrapper-8 {
+  position: absolute;
+  top: 58px;
+  left: 40px;
+  font-family: "Marcellus SC", Helvetica;
+  font-weight: 400;
+  color: #112124;
+  font-size: 20px;
+  letter-spacing: 1.9px;
+  line-height: normal;
+}
+
+.REVIEW .overlap-2 {
+  position: absolute;
+  width: 397px;
+  height: 70px;
+  top: 548px;
+  left: 135px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .text-wrapper-9 {
+  position: absolute;
+  top: 14px;
+  left: 40px;
+  font-family: "Marcellus SC", Helvetica;
+  font-weight: 400;
+  color: #112124;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .arrow {
+  position: absolute;
+  width: 24px;
+  height: 15px;
+  top: 28px;
+  left: 343px;
+}
+
+.REVIEW .overlap-3 {
+  position: absolute;
+  width: 397px;
+  height: 70px;
+  top: 684px;
+  left: 135px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .overlap-4 {
+  position: absolute;
+  width: 397px;
+  height: 70px;
+  top: 820px;
+  left: 135px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .overlap-5 {
+  position: absolute;
+  width: 397px;
+  height: 70px;
+  top: 956px;
+  left: 135px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .text-wrapper-10 {
+  position: absolute;
+  top: 14px;
+  left: 35px;
+  font-family: "Marcellus SC", Helvetica;
+  font-weight: 400;
+  color: #112124;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .overlap-group-2 {
+  position: absolute;
+  width: 737px;
+  height: 930px;
+  top: 334px;
+  left: 568px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .overlap-6 {
+  position: absolute;
+  width: 517px;
+  height: 100px;
+  top: 114px;
+  left: 43px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .img {
+  width: 50px;
+  height: 50px;
+  top: 25px;
+  left: 20px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.REVIEW .text-wrapper-11 {
+  position: absolute;
+  top: 35px;
+  left: 109px;
+  font-family: "Marcellus SC", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .line {
+  top: 21px;
+  position: absolute;
+  width: 1px;
+  height: 58px;
+  left: 87px;
+  object-fit: cover;
+}
+
+.REVIEW .overlap-7 {
+  position: absolute;
+  width: 517px;
+  height: 100px;
+  top: 284px;
+  left: 43px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .overlap-8 {
+  position: absolute;
+  width: 517px;
+  height: 100px;
+  top: 454px;
+  left: 43px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .rectangle-2 {
+  width: 50px;
+  height: 50px;
+  top: 22px;
+  left: 20px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.REVIEW .line-2 {
+  top: 18px;
+  position: absolute;
+  width: 1px;
+  height: 58px;
+  left: 87px;
+  object-fit: cover;
+}
+
+.REVIEW .text-wrapper-12 {
+  position: absolute;
+  top: 35px;
+  left: 119px;
+  font-family: "Marcellus SC", Helvetica;
+  font-weight: 400;
+  color: #112124;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .overlap-9 {
+  position: absolute;
+  width: 517px;
+  height: 100px;
+  top: 624px;
+  left: 43px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px #00000026;
+}
+
+.REVIEW .text-wrapper-13 {
+  position: absolute;
+  top: 35px;
+  left: 119px;
+  font-family: "Marcellus SC", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.REVIEW .text-wrapper-14 {
+  position: absolute;
+  top: 31px;
+  left: 63px;
+  font-family: "Marcellus SC", Helvetica;
+  font-weight: 400;
+  color: #112124;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}

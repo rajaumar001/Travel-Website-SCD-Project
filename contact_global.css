@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-marcellus-sc: "Marcellus SC";
+  --font-kufam: Kufam;
+  --font-koulen: Koulen;
+
+  /* font sizes */
+  --font-size-xl: 1.25rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #112124;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+}

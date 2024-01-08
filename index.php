@@ -55,10 +55,11 @@ session_start();
 
       <div class="main-page-item"></div>
       <b class="happy-holiday">Happy Holiday</b>
-      <div class="all-hotels">All Hotels</div>
-      <div class="what-we-are">What we are</div>
-      <div class="about-us">ABOUT US</div>
-      <div class="contact-us">CONTACT US</div>
+      <div class="all-hotels"><a href="hotels.php">All Hotels</a></div>
+      <div class="what-we-are"><a href="wwr.php">What we are</a></div>
+      <div class="about-us"><a href="AboutUs.php">ABOUT US</a></div>
+      <div class="contact-us"><a href="contact.php">CONTACT US</a></div>
+      
       <div class="travel-amsterdam-like-container">
         <p class="travel-amsterdam">Travel Amsterdam</p>
         <p class="travel-amsterdam">Like Never Before</p>
@@ -315,9 +316,9 @@ session_start();
       <div class="main-page-child59"></div>
       <div class="its-time-for">It’s Time For Adventures & Experience</div>
       <div class="main-page-child60"></div>
-      <div class="main-page-child61"></div>
-      <div class="subscribe">SUBSCRIBE</div>
-      <div class="enter-your-email">ENTER YOUR EMAIL ADDRESS</div>
+      <!-- <div class="main-page-child61"></div> -->
+      <div class="subscribe"><input id="subs" type="button" value="SUBSCRIBE"></div>
+      <div class="enter-your-email"><input  id="alpha" type="text" placeholder="ENTER YOUR EMAIL ADDRESS"></div>
       <div class="main-page-child62"></div>
       <img
         class="main-page-child63"
@@ -335,14 +336,14 @@ session_start();
         src="./public/rectangle-54@2x.png"
       />
 
-      <div class="happyholidaysgmailcom">Happyholidays@gmail.com</div>
+      <div class="happyholidaysgmailcom"><a href="mailto:Happyholidays@gmail.com">Happyholidays@gmail.com</a></div>
       <img
         class="main-page-child65"
         alt=""
         src="./public/rectangle-55@2x.png"
       />
 
-      <div class="happyholidays">HappyHolidays</div>
+      <div class="happyholidays"><a href="https://www.instagram.com/chaye__rus" target="_blank">HappyHolidays</a></div>
       <img
         class="main-page-child66"
         alt=""
@@ -356,8 +357,8 @@ session_start();
       />
     <div id="navbar">
       <b class="happy-holiday1">Happy Holiday</b>
-      <div class="contact-us1">CONTACT US</div>
-      <div class="about-us1">ABOUT US</div>
+      <div class="contact-us1"><a href="contact.php">CONTACT US</a></div>
+      <div class="about-us1" style=" text-decoration: none;"><a href="AboutUs.php">ABOUT US</a></div>
       <div class="faqs">FAQ’s</div>
       <div class="main-page-child68"></div>
       <div class="log-in">
