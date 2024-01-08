@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  height: 100%;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-koulen: Koulen;
+  --font-krona-one: "Krona One";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #112124;
+  --color-darkgray: #979797;
+}
